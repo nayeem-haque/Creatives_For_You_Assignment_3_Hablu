@@ -3,9 +3,7 @@
 @tailwind utilities;
 
    
-    .bg{
-        background-image: url(assets/brooke-cagle-g1Kr4Ozfoac-unsplash\ 2.png);
-        background-repeat: no-repeat ;
-        background-size: cover;
-    }
+@layer utilities{
     
+    
+}
